@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+ body {
+   background-image: url("C:/Users/jwolf/OneDrive/Desktop/01-01-206-file-structure-starter/img/symphony.png");
+   background-repeat: repeat;
+     /* Background image from http://subtlepatterns.com/ */
+	font-family: 'Montserrat', sans-serif;
+  color: Gray;
+}
+
+header {
+  margin:0px;
+
+  text-align:center;
+  font-family: 'Montserrat', sans-serif;
+  color:Gray;
+}
+
+h1{
+	color:red;
+}
+
+h2{
+	color:#FF7F50;
+}
+
+a.eMail{
+	color:Green;
+	text-decoration:none;
+}
+
+
+h1.Name{
+	margin-bottom:0px;
+	border:10px solid red;
+	padding:30px;
+	display:inline;
+}
+
+
+
+
+#wrapper{
+	margin-top:150px;
+}
+
+
+
+
+h2.title{
+	margin-top: 40px;
+    padding: 30px;
+}
+.Phone_Number{
+	color:Green;
+}
+/* -------------- Quote Styles ------------*/
+.inspirational-quote-goes-here{
+	font-style:italic;
+	font-size:20px;
+	margin-top:50px;
+	line-height:30px;
+}
+
+
+.lineBreak{
+	border: 1px solid black;
+    margin: 30px auto;
+    width: 50%;
+}
